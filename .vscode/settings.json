@@ -1,6 +1,7 @@
 {
   "eslint.workingDirectories": [
-    "./nest-project-day1"
+    "./nest-project-day1",
+    "./day3-dto-and-validation"
   ],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
