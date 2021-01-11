@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "./nest-project-day1"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
